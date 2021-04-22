@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ChainSafe/chainbridge-utils/crypto"
+	"github.com/Phala-Network/chainbridge-utils/crypto"
 )
 
 const EnvPassword = "KEYSTORE_PASSWORD"
