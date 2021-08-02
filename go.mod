@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/ChainSafe/log15 v1.0.0
-	github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210802143415-d0b7e00563de // indirect
+	github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210802155512-08130ace759a // indirect
 	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/ethereum/go-ethereum v1.10.3
 	github.com/pierrec/xxHash v0.1.5 // indirect
