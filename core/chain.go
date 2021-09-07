@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/Phala-Network/chainbridge-utils/metrics/types"
-	"github.com/Phala-Network/chainbridge-utils/msg"
+	metrics "github.com/Ryuh1/chainbridge-utils/metrics/types"
+	"github.com/Ryuh1/chainbridge-utils/msg"
 )
 
 type Chain interface {

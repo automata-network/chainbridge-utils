@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Phala-Network/chainbridge-utils/msg"
 	"github.com/ChainSafe/log15"
+	"github.com/Ryuh1/chainbridge-utils/msg"
 )
 
 type mockWriter struct {

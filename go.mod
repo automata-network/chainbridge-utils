@@ -1,4 +1,4 @@
-module github.com/Phala-Network/chainbridge-utils
+module github.com/Ryuh1/chainbridge-utils
 
 go 1.13
 

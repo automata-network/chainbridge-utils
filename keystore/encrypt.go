@@ -14,9 +14,9 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/Phala-Network/chainbridge-utils/crypto"
-	"github.com/Phala-Network/chainbridge-utils/crypto/secp256k1"
-	sr25519 "github.com/Phala-Network/chainbridge-utils/crypto/sr25519"
+	"github.com/Ryuh1/chainbridge-utils/crypto"
+	"github.com/Ryuh1/chainbridge-utils/crypto/secp256k1"
+	sr25519 "github.com/Ryuh1/chainbridge-utils/crypto/sr25519"
 	"golang.org/x/crypto/blake2b"
 	"golang.org/x/crypto/ssh/terminal"
 )

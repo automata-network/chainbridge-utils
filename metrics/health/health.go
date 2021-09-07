@@ -11,9 +11,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/Phala-Network/chainbridge-utils/core"
-	"github.com/Phala-Network/chainbridge-utils/msg"
 	log "github.com/ChainSafe/log15"
+	"github.com/Ryuh1/chainbridge-utils/core"
+	"github.com/Ryuh1/chainbridge-utils/msg"
 )
 
 type httpMetricServer struct {
