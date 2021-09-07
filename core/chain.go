@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/Ryuh1/chainbridge-utils/metrics/types"
-	"github.com/Ryuh1/chainbridge-utils/msg"
+	metrics "github.com/automata-network/chainbridge-utils/metrics/types"
+	"github.com/automata-network/chainbridge-utils/msg"
 )
 
 type Chain interface {

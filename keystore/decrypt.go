@@ -10,9 +10,9 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Ryuh1/chainbridge-utils/crypto"
-	"github.com/Ryuh1/chainbridge-utils/crypto/secp256k1"
-	"github.com/Ryuh1/chainbridge-utils/crypto/sr25519"
+	"github.com/automata-network/chainbridge-utils/crypto"
+	"github.com/automata-network/chainbridge-utils/crypto/secp256k1"
+	"github.com/automata-network/chainbridge-utils/crypto/sr25519"
 )
 
 // Decrypt uses AES to decrypt ciphertext with the symmetric key deterministically created from `password`

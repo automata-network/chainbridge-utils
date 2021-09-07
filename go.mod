@@ -1,4 +1,4 @@
-module github.com/Ryuh1/chainbridge-utils
+module github.com/automata-network/chainbridge-utils
 
 go 1.13
 

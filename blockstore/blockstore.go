@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Ryuh1/chainbridge-utils/msg"
+	"github.com/automata-network/chainbridge-utils/msg"
 )
 
 const PathPostfix = ".chainbridge/blockstore"

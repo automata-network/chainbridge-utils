@@ -12,8 +12,8 @@ import (
 	"time"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/Ryuh1/chainbridge-utils/core"
-	"github.com/Ryuh1/chainbridge-utils/msg"
+	"github.com/automata-network/chainbridge-utils/core"
+	"github.com/automata-network/chainbridge-utils/msg"
 )
 
 type httpMetricServer struct {

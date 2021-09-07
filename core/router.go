@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/Ryuh1/chainbridge-utils/msg"
+	"github.com/automata-network/chainbridge-utils/msg"
 )
 
 // Writer consumes a message and makes the requried on-chain interactions.
