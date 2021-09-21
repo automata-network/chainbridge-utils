@@ -9,7 +9,7 @@ import (
 	"github.com/automata-network/chainbridge-utils/crypto"
 	"github.com/automata-network/chainbridge-utils/crypto/secp256k1"
 	"github.com/automata-network/chainbridge-utils/crypto/sr25519"
-	"github.com/centrifuge/go-substrate-rpc-client/v3/signature"
+	"github.com/automata-network/go-substrate-rpc-client/v3/signature"
 )
 
 // The Constant "keys". These are the name that the keys are based on. This can be expanded, but
