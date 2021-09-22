@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/ChainSafe/log15 v1.0.0
-	github.com/automata-network/go-substrate-rpc-client/v3 v3.0.3-0.20210922081404-b42e5fac7757 // indirect
+	github.com/automata-network/go-substrate-rpc-client/v3 v3.0.3-0.20210922090557-193e156285dc // indirect
 	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/consensys/gurvy v0.3.8 // indirect
 	github.com/ethereum/go-ethereum v1.10.8
